@@ -9,3 +9,9 @@ O objetivo principal deste projeto foi desenvolver um programa simulando um rob�
 * **Kotlin** (Compatibilidade nativa)
 * **Programação Orientada a Objetos:** Herança, Polimorfismo e Interfaces
 * **Estrutura de dados:** Coleções, Arrays e Lambdas
+
+## Vídeo explicativo
+https://youtu.be/xOwUHf2K_CI
+
+
+
